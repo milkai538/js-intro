@@ -4,7 +4,7 @@ Mastering the "silent" part of your code that makes you a professional coder and
 
 ---
 
-<!-->P.S. I'm not using ai. Still.<--!>
+<!-->P.S. I'm not using ai. Still. <--!>
 
 ## 🎯 Learning Objectives
 
